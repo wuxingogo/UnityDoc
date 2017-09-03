@@ -1,0 +1,15 @@
+https://support.unity3d.com/hc/en-us/articles/209019666-How-can-I-revoke-a-seat-in-my-Organization-
+https://support.unity3d.com/hc/en-us/articles/115003254566-How-can-I-tell-which-machines-are-activated-on-my-license-
+https://support.unity3d.com/hc/en-us/articles/205056069-How-do-I-return-the-activations-on-my-Pro-Plus-license-
+https://support.unity3d.com/hc/en-us/articles/205698949-I-have-just-installed-a-new-Operating-System-Why-is-my-license-failing-to-activate-
+https://support.unity3d.com/hc/en-us/articles/205568179-Is-there-a-mass-activation-solution-
+https://support.unity3d.com/hc/en-us/articles/205958825-My-serial-number-does-not-work-during-activation-of-Unity
+https://support.unity3d.com/hc/en-us/articles/205945805-My-Unity-license-was-activated-manually-and-cannot-be-returned
+https://support.unity3d.com/hc/en-us/articles/205842625-Serial-cannot-be-managed-from-the-online-store-
+https://support.unity3d.com/hc/en-us/articles/206586053-Unity-Editor-crashes-whenever-I-try-to-run-it-It-says-Unity-editor-has-stopped-working-
+https://support.unity3d.com/hc/en-us/articles/210247053-What-is-a-seat-
+https://support.unity3d.com/hc/en-us/articles/209319206-When-I-try-to-activate-I-get-taken-back-to-the-serial-key-page
+https://support.unity3d.com/hc/en-us/articles/208609916-Where-am-I-able-to-see-my-Unity-Licenses-
+https://support.unity3d.com/hc/en-us/articles/205057539-Why-can-I-not-customize-the-iOS-and-Android-Splash-Screen-
+https://support.unity3d.com/hc/en-us/articles/206506105-Why-can-t-I-use-version-control-
+https://support.unity3d.com/hc/en-us/articles/205159503-Why-do-I-get-an-SSl-peer-certificate-or-SSH-remote-key-was-not-OK-error-when-attempting-to-reactivate-my-license-
